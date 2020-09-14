@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Savitar",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["content.js"]
+        }
+    ],
+    "permissions": ["tabs", "storage"],
+    "browser_action": {
+        "default_icon": "icon.jpg",
+        "default_popup": "popup.html",
+        "default_title": "Linkedin summary plugin"
+    }
+}
