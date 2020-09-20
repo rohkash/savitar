@@ -11,9 +11,16 @@ We all know, how challenging it is to find the job that you require. LinkedIn is
 
 ---
 
-## Learn more about the project here
+## Table of contents
+- [Project Video](#project-video)
+- [Project Stages](#project-stages)
+- [License](#license)
+
+# Project Video
 
 [![Savitar pitch](https://img.youtube.com/vi/aRedmJN3bUc/0.jpg)](https://www.youtube.com/watch?v=aRedmJN3bUc)
+
+# Project Stages
 
 ## Part 1 Overview
 * Completed integrating the Chrome extension with LinkedIn.
@@ -26,3 +33,6 @@ We all know, how challenging it is to find the job that you require. LinkedIn is
 ## Part 3 Requirements
 * Incorporating notification based services for jobs searched by the candidate and setting triggers for job alerts. 
 * Expanding the scope of the project to other portals such as Indeed, Monster.com etc. for the best possible user experience and time saving. 
+
+## License
+<img src = "https://badgen.net/npm/license/lodash">
