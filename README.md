@@ -5,9 +5,9 @@
 <img src = "https://img.shields.io/github/license/pushkardravid/savitar">
 <img src = "https://img.shields.io/github/issues-raw/pushkardravid/savitar">
 <img src = "https://img.shields.io/github/issues-pr/pushkardravid/savitar">
-<img src = "https://img.shields.io/github/last-commit/pushkardravid/savitar>
-<img src = "https://img.shields.io/github/release-date/pushkardravid/savitar>
-<img src = "https://img.shields.io/youtube/views/aRedmJN3bUc?style=social>
+<img src = "https://img.shields.io/github/last-commit/pushkardravid/savitar">
+<img src = "https://img.shields.io/github/release-date/pushkardravid/savitar">
+<img src = "https://img.shields.io/youtube/views/aRedmJN3bUc?style=social">
 ---
 
 We all know, how challenging it is to find the job that you require. LinkedIn is one of the largest job portal which connects job seekers to recruiters throughout the globe. There are innumerable jobs in the industries but in order to find the job based on your specific requirements requires individual need based searches. In order to identify the specific requirements for targeted searches, we bring to you **Savitar, a chrome extension** that helps you summarize a linkedin job posting so you dont have to spend your time reading through job descriptions that may not be relevant to you!
