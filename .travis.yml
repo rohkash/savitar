@@ -1,0 +1,4 @@
+addons:
+  chrome: stable
+
+chrome.exe --pack-extension=[extension_path]
