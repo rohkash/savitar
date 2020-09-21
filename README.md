@@ -8,6 +8,9 @@
 <img src = "https://img.shields.io/github/last-commit/pushkardravid/savitar">
 <img src = "https://img.shields.io/github/release-date/pushkardravid/savitar">
 <img src = "https://img.shields.io/youtube/views/aRedmJN3bUc?style=social">
+<img src = "https://img.shields.io/github/contributors/pushkardravid/savitar">
+
+
 
 ---
 
