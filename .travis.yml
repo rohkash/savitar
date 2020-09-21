@@ -2,4 +2,4 @@ addons:
   chrome: stable
 
 script:
-  - chrome.exe --pack-extension=/
+  - echo "Add script to pack chrome extension"
