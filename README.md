@@ -36,7 +36,7 @@ We all know, how challenging it is to find the job that you require. LinkedIn is
 
 ## Part 3 Requirements
 * Incorporating notification based services for jobs searched by the candidate and setting triggers for job alerts. 
-* Fulfil all requirements related to deployment of the extension to Chrome store.
+* Fulfill all requirements related to deployment of the extension to Chrome store.
 * Expanding the scope of the project to other portals such as Indeed, Monster.com etc. for the best possible user experience and time saving. 
 
 ## License
