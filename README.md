@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/295556704.svg)](https://zenodo.org/badge/latestdoi/295556704)
+[![Build Status](https://travis-ci.com/pushkardravid/savitar.svg?branch=master)](https://travis-ci.com/pushkardravid/savitar)
+
 # Savitar - A user-friendly jobs filter extension for LinkedIn [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Do%20you%20plan%20to%20improve%20your%20job%20searches%20on%20LinkedIn%3F%20Look%20no%20further.%20Savitar%20is%20the%20right%20extension%20for%20the%20job.%20Use%20it!%20Tweet%20it!%20Enjoy%20it!%20&hashtags=LinkedIn%20feature%20recommendations%20%20&url=https%3A%2F%2Fgithub.com%2Fpushkardravid%2Fsavitar%2F%20)
 
 <p align="center">
@@ -11,10 +14,7 @@
 <img src = "https://img.shields.io/github/contributors/pushkardravid/savitar">
 </p>
 
-
 ---
-[![DOI](https://zenodo.org/badge/295556704.svg)](https://zenodo.org/badge/latestdoi/295556704)
-[![Build Status](https://travis-ci.com/pushkardravid/savitar.svg?branch=master)](https://travis-ci.com/pushkardravid/savitar)
 
 We all know, how challenging it is to find the job that you require. LinkedIn is one of the largest job portal which connects job seekers to recruiters throughout the globe. There are innumerable jobs in the industries but in order to find the job based on your specific requirements requires individual need based searches. In order to identify the specific requirements for targeted searches, we bring to you **Savitar, a Chrome Extension** that helps you summarize a linkedin job posting so you dont have to spend your time reading through job descriptions that may not be relevant to you!
 
